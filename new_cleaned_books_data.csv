@@ -1,0 +1,471 @@
+No,BookCode,BookName,BookAuthor,Publication,Domain
+1,AL-DSA-0011,Data Structure using C,Wipro,Wipro,Data Structures and Algorithms
+2,AL-DSA-002,Computer Algorithms,Sara Baase,Pearson Education,Data Structures and Algorithms
+3,AL-DSA-003,Graph Theory,Narsingh Deo,PHI private limited,Data Structures and Algorithms
+4,AL-DSA-004,"Data Dtructures, Files and Algorithms",Abhay K. Abhyankar,C-Aditi Publications,Data Structures and Algorithms
+5,AL-DSA-005,Data Structures,Sunita S. Barve,Vipul Prakashan,Data Structures and Algorithms
+6,AL-DSA-00601,Fundamentals of Computer algorithms,Ellis Horowitz,University Press,Data Structures and Algorithms
+7,AL-DSA-008,Data structure and algorithm,Bhakti C. Raul & Vinaya Rawool,Tech-Max Publications,Data Structures and Algorithms
+8,AL-DSA-0081,Data Structures and Algorithms,Bhakti Raul-Palkar,Tech-Max Publications,Data Structures and Algorithms
+9,AL-DSA-010,Structured Programming Approach,Kogent Learning Solutions Inc.,dreamTech Press,Data Structures and Algorithms
+10,AL-DSA-012,Data Structure Using C,Udit Agarwal,Katson Books,Data Structures and Algorithms
+11,AL-DSA-01202,Data Structures using C,Udit Agrawal,Katson Books,Data Structures and Algorithms
+12,AL-DSA-015,Data Structure a Pseudocode approach with C,Richard F. Gilberg & Behrouz A. Forouzan,Cengage Learning,Data Structures and Algorithms
+13,AL-DSA-01501,Data Structures A Pseudocode Approach with C,Richard F. Gilberg and Behrouz A. Forouzan,Cengage Publication,Data Structures and Algorithms
+14,AL-DSA-01604,Programming in C,Pradip Dey,Oxforf Higher Education,Data Structures and Algorithms
+15,AL-DSA-019,The Design and Analysis of Computer Algorithms,Aho Hopcroft Ullman,Pearson Education,Data Structures and Algorithms
+16,AL-DSA-020,Data Structures with Java,John R Hubbard,Tata McGraw-Hill Education,Data Structures and Algorithms
+17,AL-DSA-021,Structural and Object Oriented Analysis and Design,A.A. Puntambekar,Technical Publications,Data Structures and Algorithms
+18,AL-DSA-022,Data Structures Theory Problems and Algorithms,R. S. Salaria,Khanna Book Publication,Data Structures and Algorithms
+19,AL-DSA-023,Data Structures and Files,Bhakti C Raul & Vinaya M. Rawool,Techmax Publication,Data Structures and Algorithms
+20,AL-DSA-024,Design and Analysis of Algorithms,V.K. Pallaw,Asian Books Private LTD,Data Structures and Algorithms
+21,AL-DSA-027,Design And Analysis Of Algorithms,A.A. Puntambekar,Technical Publications,Data Structures and Algorithms
+22,AL-DSA-02701,Data structures & Algorithm Analysis,A. A. Puntambekar,Technical Publication,Data Structures and Algorithms
+23,AL-DSA-030,Data Structure through C++,Yashwant Kanetkar,BPB Publications,Data Structures and Algorithms
+24,AL-DSA-031,Data Structure & Analysis,Dilip Kumar Sultania,Tech Max Publication,Data Structures and Algorithms
+25,AL-DSA-033,Data structures using C,E Balagurusamy,McGraw Hill education,Data Structures and Algorithms
+26,AL-DSA-034,Algorithms Design and Analysis,Harsh Bhasin,Oxford Higher Education,Data Structures and Algorithms
+27,AL-DSA-035,Data structure and algorithms in Java,Michael T Goodrich,Wiley India Edition,Data Structures and Algorithms
+28,AL-DSA-038,Understanding Pointers in C,Yashavant P. Kanetkar,BPB Publication,Data Structures and Algorithms
+29,AL-DSA-040,Data Structures with C,Rachel,Oxford Publication,Data Structures and Algorithms
+30,AL-DSA-041,Algorithms in C++,Robert Sedgewick,Pearson Publication,Data Structures and Algorithms
+31,AL-EA-001,Practical Optimization Algorithms and Engineering Applications,Andreas Antoniou,Springer Publication,Algorithms and Engineering Applications
+32,BES-CP1-003,Computer Programming - I,Mohankumar Zade,Nirali Prakashan,Computer Programming
+33,BES-CP1-006,Computer Programming - I Unix And C,M.P. Bhave,Nandu Publications,Computer Programming
+34,BES-CP-0011,Computer Concepts and C Programming,P. B. Kotur,Sapna Book house,Computer Programming
+35,BES-CP-0023,Programming in ANSI,E. Balaguruswamy,Tata McGrawHill Education,Computer Programming
+36,BES-CP-0030,Information Technology and C Language,Rajiv Khanna,New Age International Publishers,Computer Programming
+37,BES-CP-004,Computet Programming -1,Sneha Phadke,Technova Publication,Computer Programming
+38,BES-CP-005,Unix and C,M. P. Bhave &S.A. Paterkar,Nandu,Computer Programming
+39,BES-CP-0101,Object Oriented Programming with C++,E Balgurusamy,McGrawHill Education,Computer Programming
+40,BES-CP-011,Computer Programming -II,Aniket Mhala,Nirali Prakashan,Computer Programming
+41,BES-CP-0131,Computer Programming-II,Harish Narula,TechMax Publication,Computer Programming
+42,BES-CP-0134,Computer Programming - 2,Harish G. Narula,TechMax Publications,Computer Programming
+43,BES-CP-015,Computer Programming I,M. M. Shah & Vivek Kulkarni,Technova,Computer Programming
+44,BES-CP-0151,Computer Programming 1,M.M. SHAH Vivek Kulkarni,TechMax,Computer Programming
+45,BES-CP-0161,Computer Programming in C++,Junaid Khateeb,dreamtech Press,Computer Programming
+46,BES-CP-0171,Computer Programming - II,Bhakti Raul & Vinaya Rawool,Techmax Publication,Computer Programming
+47,BES-CP-0173,Computer Programming II,Bhakti Raul Palkar & Vinaya Rawool,Techmax Publication,Computer Programming
+48,BES-CP-0181,Computer Programming - 1,Deepak H. Sharma,Pearson,Computer Programming
+49,BES-CP-019,C and Unix Programming,Narayanaswamy kutti,Tata McGraw Hill,Computer Programming
+50,BES-CP-020,Computer Programming -1,Aniket Mhala,Nirali Prakashan,Computer Programming
+51,BES-CP-021,Gimpses Of C++ Object Oriented Programming,Rajendra Akerkar,Mahalaxmi Publishing House,Computer Programming
+52,BES-CP-022,A first Book of C++,Gary J Bronson,Thomson Learning,Computer Programming
+53,BES-CP-025,The Complete Reference C++,Herbert Schildt,Tata McGraw Hill,Computer Programming
+54,BES-CP-0267,Programming with C++,John R Hubbard,Schaum's Outlines,Computer Programming
+55,BES-CP-027,Mastering C++,KR Venugopal & Rajkumar,McGraw Hill Education,Computer Programming
+56,BES-CP-030,The C Programming Language,Brian W. Kernighan,PHI Publications,Computer Programming
+57,BES-CP-032,Understanding Pointers In C,Yashwant Kanetkar,BPB Publication,Computer Programming
+58,BES-CP-033,C++ Programming Language,Bjarne Stroustrup,Addison Wesley,Computer Programming
+59,BES-CP-034,Computer Organization and Architecture,Harish G. Narula,Neebal Technologies,Computer Programming
+60,BES-CP-035,Let Us C++ Solutions,Yashwant Kanetkar,BPB Publications,Computer Programming
+61,BES-CP-036,C++ Programming,Alok Pawar,Techmax Publication,Computer Programming
+62,BES-CP-038,C Programming,Harish G. Narula Khushboo Shah,Techknowledge Publications,Computer Programming
+63,BES-CP-0384,GATE 2005-SLP,Harish G. Narula and Khushboo Shah,TechKnowledge Publication,Computer Programming
+64,BES-CP-039,Programing and Problem Solving using C,ISRD Group,McGraw Hill Education,Computer Programming
+65,BES-CP-040,Computer Fundamentals and Programming,Sumitha Das,McGraw Hill Education,Computer Programming
+66,BES-CP-041,Object Oriented Programming Methodology,Radha Shankarmani,dreamtech Press,Computer Programming
+67,BES-CP-042,Programming with C,Jitendra Kumar Chhabra,McGrawHill Education,Computer Programming
+68,BES-CP-043,Programming for Problem Solving,B.L Juneja Anita Seth,Cengage,Computer Programming
+69,BES-CP-045,Object Oriented Programming and C++,R. Rajaram,New Age Publication,Computer Programming
+70,BES-CP-062101,Programming in ANSI C,E. BALAGURUSAMY,McGrawHill Education,Computer Programming
+71,BES-CPI-0011,Computer Concepts and C programming,P. B. Kotur,Sapna Book House,Computer Programming
+72,BES-IT-001,Introduction to Information Theory,V. Rajaraman,Prentice Hall Publication,Computer Programming
+73,BES-IT-002,Foundations of Information Theory,Ketha Anuradha Rao,Nandu Publication,Computer Programming
+74,BES-IT-003,Computer Science and Information Technology,S.S.Khandare,S.Chand and Company,Computer Programming
+75,BES-IT-004,Foundations of Information Technology,D. S. Yadav,New Age Publication,Computer Programming
+76,BES-IT-0041,Foundations Of Information Technology,D.S. Yadav,New Age International Publishers,Computer Programming
+77,BES-IT-005,Information Technology,Atul Kahate,Tata McGraw-Hill,Computer Programming
+78,BES-IT-006,A Textbook Of Information Technology,R. Sarvana Kumar,S. Chand and Company LTD.,Computer Programming
+79,BES-IT-007,Information Technology Network And Internet,C.T. Bhunia,NewAge International Publishers,Computer Programming
+80,BES-JAVA-0021,Programming In JAVA,Sachin Malhotra,Oxford Education,Computer Programming
+81,BES-JAVA-003,Visual C++ 6,Michael J. Young,bpb publu,Computer Programming
+82,BES-JAVA-005,Object Oriented programming In JAVA,G.T. Thampi,Dreamtech Press,Computer Programming
+83,BES-JAVA-006,Object Oriented Programming,Jose M. Garrido,Firewall Media,Computer Programming
+84,BES-JAVA-0072,JAVA 2,Herbert Schildt,Tata McGrawHill Edition,Computer Programming
+85,BES-JAVA-0074,The Complete Reference J2EE,Jim Keogh,Tata McGraw Hill Edition,Computer Programming
+86,BES-JAVA-0076,Java Servlet Programming,Jason Hunter,O`Reilly,Computer Programming
+87,BES-JAVA-007601,Java 2,Patrick Naughton,Tata McGraw Hill,Computer Programming
+88,BES-JAVA-0078,Head First EJB,Kathy Sierra & Bert Bates,O`Reilly,Computer Programming
+89,BES-JAVA-0079,Head First JAVA,Kathy Sierra and Bert Bates,O'Reilly,Computer Programming
+90,BES-JAVA-0080,Head First Servlets and JSP,Bryan Bashman,O'Reilly,Computer Programming
+91,BES-JAVA-0090,The Java Tutorial Continued The Rest of JDK,Mary Campione and Kathy Walrath,Adison-Wesley Publication,Computer Programming
+92,BES-JAVA-0091,SCJP Java 6,Dreamtech Press,Dreamtech Press,Computer Programming
+93,BES-JAVA-0092,The Java Programming Language,Ken Arnold and James Gosling,Pearson Publication,Computer Programming
+94,BES-JAVA-0093,JAVA 9.0 To 13.0,Mandar Jog,BPB publications,Computer Programming
+95,BES-JAVA-0094,Programming with Java,E Balagurusamy,Tata McGraw Hill,Computer Programming
+96,BES-JAVA-0095,JAVA Programming From The Ground Up,Ralph Bravaco Shai Simonson,McGrawHill Education,Computer Programming
+97,BES-JAVA-0096,Object Oriented Programming with Java,Rajkumar Buyya & S Thamarai Selvi,Tata McGraw Hill,Computer Programming
+98,BES-JAVA-0098,User Interaction Design,Vaishali Shelar,TechKnowledge Publication,Computer Programming
+99,BES-JAVA-0099,C++ For Java Programmers,Timothy Budd,Pearson,Computer Programming
+100,BES-JAVA-97,Study Notes Java 2,Boston Computer Institute,Boston Computer Institute,Computer Programming
+101,BES-TCS-001,Theory of Computer Science,E V Krishnamurthy,Affiliated East-West Press Pvt Ltd,Computer Programming
+102,BES-TCS-003,Theoretical Computer Science,Dilip Kumar Sultania,TechMax Publications,Computer Programming
+103,BES-TCS-004,Theory Of Computer Science,A.A. Puntambekar,Technical Publications Pune,Computer Programming
+104,BES-TCS-005,Theory Of Automata And Formal Languages,Udit Agarwal,Dhanpat Rai And Co.,Computer Programming
+105,HCI-IP-006,Digital Principles and Applications,Albert Paul Malvino & Donald P. Leach,Tata McGraw Hill,Human Computer Interaction 
+106,HCI-IP-00801,Software Engineering A Practitioner's Guide,S Jayaraman and S Eskkirajan,McGraw-Hill Publication,Human Computer Interaction 
+107,HCI-IP-008,Digital Image Processing,"S. Jayaraman, S Esakkirajan, T Veerakumar",McGraw Hill Education,Human Computer Interaction 
+108,HCI-IP-009,Image Processing,Dhananjay K. Theckedath,TechMax Publication,Human Computer Interaction 
+109,HCI-CGUR-0011,Computer Graphics,Samit Bhattacharya,Oxford Publication,Human Computer Interaction 
+110,HCI-CGUR-00401,Computer Graphics and Virtual Reality Systems,Rajesh K. Maurya,Wiley Publication,Human Computer Interaction 
+111,HCI-CGUR-00402,Computer Graphics with Virtual Reality Systems,Rajesh K. Maurya,Wiley-India Publication,Human Computer Interaction 
+112,HCI-CGUR-00403,Computer Graphics w,Rajesh K. Maurya,Wiley Publication,Human Computer Interaction 
+113,HCI-IGVR-004,Computet Graphics with Virtual Reality Systems,Rajesh K. Maurya,Wiley,Human Computer Interaction 
+114,HCI-GAP-004,Professional Game Programming,Mike McShaffy,dreamtech Press,Human Computer Interaction 
+115,HCI-GAP-00502,Game Architecture and Programming,Jay L. Borade,Tech-Max Publicatio,Human Computer Interaction 
+116,HCI-GAP-007,Smart System Design and and Applications,Raghib Nasri and Prof. Purva Raut,Tech-Max Publication,Human Computer Interaction 
+117,HCI-HMI-001,Human Machine Interaction,Dr. Dhananjay R. Kalbande,Wiley Publications,Human Computer Interaction 
+118,HCL-UID-00602,Management Information System,Vaishali Shelar & Christopher Sequeria,TechKnowledge Publication,Human Computer Interaction 
+119,HCL-IP-010,Object Orientatio,Dhananjay K Theckedath,TechMax Publications,Human Computer Interaction 
+120,HD-COA-001,Computer Architecture,Nicholas Carter,McGrawHill Companies,Computer Organization and Architecture
+121,HD-COA-002,Fundamentals of Computer,V. Rajaraman,Prentice Hall of India Private Limited,Computer Organization and Architecture
+122,HD-COA-003,Computer Fundamentals Architecture and Organization,B Ram,New Age Publication,Computer Organization and Architecture
+123,HD-COA-004,Computer Organization,V.C. Hamacher,International Student Edition,Computer Organization and Architecture
+124,HD-COA-006,Structured Computer Organization,Andrew S. Tanenbaum,Pearson Education,Computer Organization and Architecture
+125,HD-COA-010,Computer Organization And Design,David A. Peterson,Morgan Kauffman,Computer Organization and Architecture
+126,HD-COA-011,Computer Organization And Architecture,Sayli Patki-Haldavanekar,Nandu Publications,Computer Organization and Architecture
+127,HD-COA-01202,Database Management System,Dilip Kumar Sultania,Techmax Publication,Computer Organization and Architecture
+128,HD-COA-013,Computer Architecture and Organizations,B Govindarajalu,McGraw Hill Publication,Computer Organization and Architecture
+129,HD-COA-015,Computer Organization & Architecture,A. P. Godse & D. A. Godse,Technical Publication,Computer Organization and Architecture
+130,HD-DLDA-001,Digital Logic Design and Applications,A.P.Godse,Technical Publications Pune,Digital Logic Design and Applications
+131,HD-DLDA-002,Cobol Programming,M. Morris Mano,PHI Publications,Digital Logic Design and Applications
+132,HD-DLDA-003,Modern Digital Electronics,R.P. JAIN,Tata McGraw Hill Publications,Digital Logic Design and Applications
+133,HD-DLDA-004,Digital Electronics,J.S Katre,TechMax Publications,Digital Logic Design and Applications
+134,HD-DLDA-005,Basic Electronics,Bernard Grob,Metric Editions,Digital Logic Design and Applications
+135,HD-DLDA-006,Digital And Data Communications,Michael A. Miller,Jaico Publishing House,Digital Logic Design and Applications
+136,HD-DLDA-007,Operat,J. S. Katre,Tech-Max,Digital Logic Design and Applications
+137,HD-DLDA-00701,Digital Logic Design and Application,J. S. Katre,Tech-Max,Digital Logic Design and Applications
+138,HD-DSP-001,Discrete-Time Signal Processing,Bijith Marakarkandy,Vipul Publications,Digital Signal Processing
+139,HD-DSP-002,Digital Signal Processing,A. Nagoor Kani,McGraw Hill Education,Digital Signal Processing
+140,HD-DSP-003,Programming with JAVA,M. P. Bhave & S. A. Patekar,McGraw,Digital Signal Processing
+141,HD-EDC,Linear Integrated Circuits,S Salivahanan & VS Kanchana Bhaaskaran,McGraw Hill Education,Electronic Devices and Circuits
+142,HD-EDC-001,Electronics - II,J.S. Katre,TechMax Publications,Electronic Devices and Circuits
+143,HD-EDC-002,Electronic Devices and Circuits,U.A Bakshi A.P. Godse,Technical Publications,Electronic Devices and Circuits
+144,HD-EDC-003,Design Of Basic Electronic Circuits,Praful N. Thakkar,Jeevandeep,Electronic Devices and Circuits
+145,HD-EDC-004,Electronic Devices And Circuits,Allen Mottershead,PHI Publications,Electronic Devices and Circuits
+146,HD-EDC-005,Power Electronics,PC Sen,McGrawHill Publications,Electronic Devices and Circuits
+147,HD-EDC-006,Analog and Digital Circuits,J.S.Katre,Tech-Max Publications,Electronic Devices and Circuits
+148,HD-EDC-007,Digital Circuits and Design,S. salivahanan & S. Arivazhagan,Oxford Higher Education,Electronic Devices and Circuits
+149,HD-EDC-012,"Power Electronics Circuits,Devices and Applications",Muhammad H. Rashid,Prentice Hall India Private Limited,Electronic Devices and Circuits
+150,HD-EDS-009,Integrated Circuits,Uday A. Bakshi and Atul P. Godse,Technical Publication,Electronic Devices and Circuits
+151,HD-EM-002,Electronic Principles,Albert Paul Malvino,McGraw Hill Education,Electronic Devices and Circuits
+152,HD-NT-001,Introduction To Nanotechnology,Charles P. Poole Jr.,Wiley Student Edition,Electronic Devices and Circuits
+153,HD-NT-003,Nanotechnology,Mark Ratner,Pearson Education,Electronic Devices and Circuits
+154,HD-EN-001,Electrical Networks,Ravish R. Singh,Nirali Prakashan,Electronic Devices and Circuits
+155,HD-EN-003,Network Analysis,M. E. Van Valkenburg,Prentice Hall India Publication,Electronic Devices and Circuits
+156,HD-ES-001,Fundamentals Of Embedded Software,Daniel W. Lewis,Pearson Education Asia,Electronic Devices and Circuits
+157,HD-ES-002,Embedded Systems and Real-Time Programming,Sanjay B. Deshmukh,TechMax Publications,Electronic Devices and Circuits
+158,HD-ES-003,Internet of Things with Arduino and Bolt,Ashwin Pajankar,BPB Publications,Electronic Devices and Circuits
+159,HD-ES-004,Internet of Everything,Yogesh P. Pingle,TechKnowledge Publications,Electronic Devices and Circuits
+160,HD-ES-005,Microcontrollers and Embedded Systems,Harish G. Narula,Tech-Max,Electronic Devices and Circuits
+161,HD-ES-006,Embedded Systems and Robots,Subrata Ghoshal,Cengage,Electronic Devices and Circuits
+162,HDI-IP-007,Introduction to Digital Image Processing with Matlab,Alasdair McAndrew,Cengage Learning,Digital Image Processing
+163,HD-DLDA-006,Digital Electronics And Microprocessors,R.P. Jain,Tata McGrawHill,Digital Logic Design and Applications
+164,HD-MPMC-001,Assembly Language Programming,Lance Leventhal,McGrawHill Education,Microprocessors
+165,HD-MPMC-0010,The Pentium Processor,James L. Antonakos,Pearson Education,Microprocessors
+166,HD-MPMC-0011,8086 Microprocessors,Hema Dalal,Nandu Publication,Microprocessors
+167,HD-MPMC-0012,Microprocessor-II,A. P. Godse,Technical Publication Pune,Microprocessors
+168,HD-MPMC-0013,Microprocessors and Interfacing,Doughlas V Hall,Tata McGraw Hill Publication,Microprocessors
+169,HD-MPMC-0015,Peter Norton's Assembly Language Book For The IBM PC,Peter Norton,Eastern Economy Edition,Microprocessors
+170,HD-MPMC-003,Tandem Concepts,TCS Services,TCS Services,Microprocessors
+171,HD-MPMC-005,Microcomputer Systems:The 8086/8088 Family,Yu-cheng Liu,PHI Publications,Microprocessors
+172,HD-MPMC-007,Microprocessors And Interfacing,Douglas V Hall,The McGrawHill Companies,Microprocessors
+173,HD-MPMC-0071,Strucutred Cobol,Doughlas V Hall,Tata McGraw Hill Publication,Microprocessors
+174,HD-MPMC-008,Micropr,John Uffenback,Prentice Hall India Publication,Microprocessors
+175,IM-ADB-001,Advance Databases,IT DEPT.,IT DEPT.,Database Management System
+176,IM-ADB-002,Advanced Database Management System,M.A. Ansari,Tech Max Publications,Database Management System
+177,IM-ADB-00301,Advance Data Management Technologies,Mahesh Mali,TechKnowledge Publication,Database Management System
+178,IM-AI-017,More than 500 Solved Problems,Prof Joshi,Kinnari Prakashan Publication,Database Management System
+179,IM-DBT-00201,Database system concepts,"Henry F. Korth & S, Sudarshan",Mcgraw Hill International edition,Database Management System
+180,IM-DBT-0021,Database System Concepts,Silberschatz Korth Sudarshan,McGrawHill Education,Database Management System
+181,IM-DBT-00301,Fundamentals of Database Systems,Ramez Elmasri and Shamkanth B. Navathe,Pearson Publication,Database Management System
+182,IM-DBT-004,An Introduction to Database Systems,C.J Date,Pearson Education,Database Management System
+183,IM-DBT-006,Database Management Systems,G.K. Gupta,McGraw Hill Education,Database Management System
+184,IM-DBT-00801,Advanced Database Management Systems,Prof. Mahesh Mali,Tech Max Publication,Database Management System
+185,IM-DBT-009,Database Systems,Thomas Connolly,Pearson Education,Database Management System
+186,IM-DBT-014,Professional SQL Server 7.0,Frank Miller & Rachelle Reese,wrox publication,Database Management System
+187,IM-DBT-015,Realtional Database Management system for MS-Dos,Microsoft,Microsoft FOXPRO,Database Management System
+188,IM-DBT-016,Microsoft Fox Pro RDBMS,Microsoft Fox Pro,Microsoft Fox Pro,Database Management System
+189,IM-DWM-00101,"Modern Data Warehousing Mining,and Visualization",George M. Marakas,Pearson,Datawarehouse and Mining
+190,IM-DWM-002,Buisness Intelligence A Managerial Approach,Efraim Turban and Ramesh Sharda,Pearson Publication,Datawarehouse and Mining
+191,IM-DWM-00301,Data Warehousing and Mining,Mrs. Arti Deshpande,TechMax Publication,Datawarehouse and Mining
+192,IM-DWM-004,Data Mining,Ian H. Witten and Eibe Frank,Elsevier,Datawarehouse and Mining
+193,IM-DWM-005,Building The Data Warehouse,William H. Inmon,Wiley dreamtech,Datawarehouse and Mining
+194,IM-DWM-008,Big Data Analytics,Radha Shankarmani,Wiley,Datawarehouse and Mining
+195,IM-DWM-010,Big Data Management and Analytics,Nitin Upadhyay,Cengage,Datawarehouse and Mining
+196,IM-GUIDB-003,GUI And Database Management,Jimit Shah,Nandu Publication,Database Management System
+197,IM-GUIDB-006,The Essential Guide to User Interface Design,Wilbert O. Galitz,Wiley India Edition,Database Management System
+198,IM-ISMDR-006,Information Security Principles and Practices,Mark Merkow and Jim Breithaupt,BPB Publication,Information Security
+199,IM-ISMDR-007,Information Storage and Management,"G. Somasundaram, Alok Shrivastava",Wiley Publications,Information Security
+200,IR-OOAD-0142,Object Oriented Analysis and Design,Jaya G. Muthreja & Pallavi S. Kulkarni,Nandu publication,Object Oriented Analysis and  Design
+201,IR-OOAD-017,ASP.NET 4.5 in Simple Steps,Kogent Learning Solutions,dreamtech Press,Object Oriented Analysis and  Design
+202,IS-AI-003,Artificial Intelligence a Guide to Intelligent Systems,Micheal Negnevitsky,Pearson Education,Arrtifical Intellgence
+203,IS-AI-0041,"Genetic Algorithms in Search, Optimization and Machine Learning",David E. Goldberg,Pearson Education,Arrtifical Intellgence
+204,IS-AI-005,Artificial Intelligence,Elaine Rich,McGrawHill International Editions,Arrtifical Intellgence
+205,IS-AI-006,Artificial Intelligence and Expert System,Dan W. Patterson,PHI Learning Private Limited,Arrtifical Intellgence
+206,IS-AI-0091,Artificial Intelligence a Modern Approach,Stuart Russell & Peter Norvig,Pearson,Arrtifical Intellgence
+207,IS-AI-0092,Artificial Intelligence A Modern Approach,Stuart Russel Peter Norvig,Pearson,Arrtifical Intellgence
+208,IS-AI-011,A First Course in Artificial Intelligence,Deepak Khemani,McGraw Hill Education,Arrtifical Intellgence
+209,IS-AI-0111,Intelligent System,Prof Purva Raut,Techmax Publication,Arrtifical Intellgence
+210,IS-AI-017,Machine Learning with Python An Approach to Applied Machine Learning,Abhishek Vijayvargia,BPB Publication,Arrtifical Intellgence
+211,IS-EGOV-001,Information Technology and E-Governance,N.Gopalasamy,New Age International Publishers,E-Governance
+212,IS-NNFS-002,Fuzzy Logic With Engineering Applications,Timothy J.Ross,Wiley,Arrtifical Intellgence
+213,IS-NNFS-004,Soft Computing,Dipali Y. Koshti,TechMax Publications,Arrtifical Intellgence
+214,IS-ERPCRM-001,Customer Relationship Management,Ed Peelen,Pearson Education,Enterprise Resource Planning
+215,IS-ERPCRM-002,A Business Guide to Customer Relationship Management,Jill Dyche,Pearson Education,Enterprise Resource Planning
+216,IS-ERPCRM-003,Enterprise Resource Planning,Mary Summer,Pearson Education,Enterprise Resource Planning
+217,IS-ERPCRM-004,Enterprise Resource Planning Concepts and Practice,Vinod Kumar Garg and N. K. Venkitkrishnan,Prentice Hall India Publication,Enterprise Resource Planning
+218,IS-ERPCRM-006,The Implementers' Guide to Success with Enterprise Resource Planning,Thomas F. Wallace and Michael H. Kremzar,Wiley Publication,Enterprise Resource Planning
+219,IS-ERPCRM-007,ERP Demystified,Rajesh Chedda Obaid Motiwala,Ane Books Pvt. Ltd.,Enterprise Resource Planning
+220,IS-ERPCRM-010,Entrepreneurship and E-Business,Dipali Y. Koshti Monali Shetty,Technowledge Publications,Enterprise Resource Planning
+221,IS-GIS-001,An Introduction To Geographical Information Systems,Ian Heywood,Pearson Education,Geographical Information Systems
+222,IS-GIS-002,Fundamentals of Geographic Information Systems,Michael N. DeMers,Wiley Student Edition,Geographical Information Systems
+223,IS-GIS-003,Geographical Information Systems,Tor Berhardsen,Wiley Publication,Geographical Information Systems
+224,IS-GIS-004,Concepts And Techniques Of Geographic Information Systems,C.P. Lo Albert K.W. Yeung,PHI publishing,Geographical Information Systems
+225,IS-MEC-002,E-Business 2.0,Dr. Ravi Kalakota,Pearson Education,Management Information Systems
+226,IS-MEC-006,Web Security & Commerce,Simson Garfinkel,O`Reilly,Management Information Systems
+227,IS-MEC-007,Mobile Computing Simplified,Nitesh Bansal,Nandu,Management Information Systems
+228,IS-MEC-008,Programming for Mobile & Remote Computer,Tulshiram J. Sule,Techmax Publication,Management Information Systems
+229,IS-MEC-010,Mobile Communications,Jochen Schiller,Pearson Education,Management Information Systems
+230,IS-MPPS-001,"Manufacturing Processes, Planning and Systems",Sanjay B. Ghaskatta,Tech-Max Publications,Management Information Systems
+231,IS-MIS-001,Information Technology for Management,EFRAIN TURBAN,Wiley India Edition,Management Information Systems
+232,IS-MIS-003,Management Information Systems,W S Jawadekar,McGraw Hill Education,Management Information Systems
+233,IS-MIS-004,Planning For Information Systems,William R. King,PHI publication,Management Information Systems
+234,IS-MIS-005,Analysis and Design of Information Systems,James A. Senn,McGraw Hill Publication,Management Information Systems
+235,IS-MIS-006,Technology Systems and Management,Ketan Shah,Springer publication,Management Information Systems
+236,ITR-OOAD-001,Object Oriented Modelling and Design,James Rumbaugh & Michael Blaha,PHI Publication,Object Oriented Analysis and  Design
+237,ITR-OOAD-002,Object Oriented Modelling And Design,S.D.Joshi,Technical Education Publication,Object Oriented Analysis and  Design
+238,ITR-OOAD-005,IBM,Department Of Information Technology,IBM,Object Oriented Analysis and  Design
+239,ITR-OOAD-0141,Object Oriented Analysis And Design,Jaya G. Muthreja,Nandu Publication,Object Oriented Analysis and  Design
+240,ITR-OOAD-015,Object Technology A manager's Guide,David A. Taylor,Addison Wesley,Object Oriented Analysis and  Design
+241,ITR-OOAD-021,UML Distilled,Booch & Jacobson & Rumbaugh,Pearson Education,Object Oriented Analysis and  Design
+242,ITR-OOAD-022,The Unified Software Development Process,Booch & Jacobson,Pearson Education,Object Oriented Analysis and  Design
+243,ITR-OOAD-025,Object Oriented Analysis and Design Using UML,D Jeya Mala and S Geetha,McGraw Hill Publication,Object Oriented Analysis and  Design
+244,ITR-SA-002,Software Architecture,Richard N. Taylor,Wiley India Edition,Software Architecture
+245,ITR-SOA-001,Service Orientated Architecture,Shankar Kambhampaty,Wiley India,Software Architecture
+246,ITR-SOA-002,Applied SOA,Michael Rosen,Wiley India Edition,Software Architecture
+247,ITR-ST-00101,Software Testing Principles and Approach,Srinivasan Desikan and Gopalaswamy Ramesh,Pearson Publication,Software Testing
+248,ITR-ST-003,Software Testing Principles and Practices,Naresh Chauhan,Oxford Publication,Software Testing
+249,ITR-ST-00301,Communication Networks,Indra Wi,Oxford Publication,Software Testing
+250,ITR-SE-002,MCSD: Analyzing Requirements and Defining Solution Architecture Study Guide,Ben Ezzell,BPB Publication,Software Testing
+251,ITR-SE-0033,Software Engineering A Practitioner's Approach,Roger S. Pressman,McGraw Hill Publication,Software Engineering
+252,ITR-SE-004,Software Engineering,Rishabh Dave and Sandeep Patel,Nandu Publication,Software Engineering
+253,ITR-SE-005,An Integrated Approach to Software Engineering,Pankaj Jalote,Narosa Publishing House,Software Engineering
+254,ITR-SE-0051,Wireless Communications and Networks 3G and Beyond,Pankaj Jalote,Narosa Publishing House,Software Engineering
+255,ITR-SE-006,Object Oriented Software Engineering,Timothy C. Lethbridge,Tata McGrawHill Edition,Software Engineering
+256,ITR-SE-007,Software Engineering Principles and Practices,Rohit Khurana,Vikas Publication,Software Engineering
+257,ITR-SE-008,Software Engineering Fundamentals,Ali Behforooz and Frederick J. Hudson,Oxford Publication,Software Engineering
+258,ITR-SE-014,Software Engineering for Internet Applications,Eve Andersson and Philip Greenspun,Prentice Hall India Publication,Software Engineering
+259,ITR-SE-016,Software Engineering A Concise Study,S. A. Kelkar,Prentice Hall India Publication,Software Engineering
+260,ITR-SQA-001,Software Quality Assurance,Daniel Galib,Pearson Education,Software Quality Assurance
+261,ITR-SQA-003,Software Testing Quality and Assurance,Kshirasagar Nair and Priyadarshi Tripathy,Wiley Publication,Software Quality Assurance
+262,ITR-SQA-005,Software Testing and Quality Assurance,Kshirasagar Naik,Wiley India,Software Quality Assurance
+263,ITR-SPM-001,Software Project Management,Bob Hughes & Mike Cotterell,Tata McGraw Hill,Software Project Management
+264,ITR-SPM-003,Agile Project Management,Jim Highsmith,Pearson Education,Software Project Management
+265,ITR-SPM-004,Effective Software Project Management,Robert K. Wysocki,Wiley India,Software Project Management
+266,ITR-SPM-0041,Effective Project Management,Dr. Robert K. Wysocki,Wiley India Publication,Software Project Management
+267,ITR-SPM-005,"Project Management: A Systems Approach to Planning, Schefuling, and Controllng",Harold Kerzner,Wiley,Software Project Management
+268,ITR-SPM-007,Project Management,Gido I Clements,Cengage Learning,Software Project Management
+269,ITR-SPM-0091,"Information Systems Project Management Methods, Tools and Techniques",John McManus Trevor Wood-Harper,Pearson Education,Software Project Management
+270,ITR-SPM-010,Project Management in IT,Kathy Schwalbe,Cengage Publication,Software Project Management
+271,ITR-SPM-017,IT Project Management,Joseph Phillips,McGraw Hill Publication,Software Project Management
+272,JNL-IRPH,International Journal of Information & Computation Technology,P. V. S. Srinivas,International Research Publication House,Information and Computation Technology
+273,M-003,Advances in Instrumentaion,V M Joshi & K R Gopalakrishnan,Tata McGraw hill,Gate and Mathematics
+274,M-004,Quantitative Aptitude (Fully Solved),R.S. Aggarwal,S. Chand And Company Ltd.,Gate and Mathematics
+275,M-006,Computer Science Catalogue 2007-08,Thomson Solutions,Thomson Solutions,Gate and Mathematics
+276,M-007,"CS, CE &IT Catalogue 2009",Ankit Fadia,PHI Publication,Gate and Mathematics
+277,M-019,GATE Computer Science and Information Technology,D. P. Nagpal,S. Chand Publication,Gate and Mathematics
+278,M-12,More than 500 Solved Problems Mathematics,Prof Joshi,Kinnari Prakashan Publication,Gate and Mathematics
+279,M-15,GATE-SLP CS/IT Module 1,GATE-SLP,Vidyalankar,Gate and Mathematics
+280,M-24,Computer Science & IT PSUs,Made easy Publication,Made easy Publication,Gate and Mathematics
+281,M-25,IT Interview Guide for Freshers,Sameer S. Paradkar,BPB Publications,Gate and Mathematics
+282,M-26,MS Office 2019,Wallance Wang,dummies,Gate and Mathematics
+283,M-27,SCWCD,Hanumant Deshmukh & Jignesh Malavia,Dreamtech Press,Gate and Mathematics
+284,M-28,Investment Banking,Jung B. Lee & Tom Lott,Vault,Gate and Mathematics
+285,M-29,Computer Essentials MS-CIT,Timothy J. Oleary & Linda I. Oleary,Tata McGraw Hill Publication,Gate and Mathematics
+286,M-30,Read Well Think Well,Hal W. Lanse,Adams Media,Gate and Mathematics
+287,M-31,IELTS General Practice Tests,Andrew Betsis & Lawrence Mamas,GlobalIELT,Gate and Mathematics
+288,M-33,IELTS 12 General Training,Cambridge University Press,Cambridge University Press,Gate and Mathematics
+289,M-34,GATE Module - 3 Programming Methodology,B Govindarajau,Vidyalankar Publication,Gate and Mathematics
+290,M-44,Engineering Thermodynamics,P K Nag,Tata McGraw Hill Education,Gate and Mathematics
+291,M-45,Material Technology,Sunil Desphande & Gautam Narwade,TechMax Publications,Gate and Mathematics
+292,M-46,The teacher's Inspirational Handbook,Dr Elaine Ann Charles,Insight Books,Gate and Mathematics
+293,M-47,IELTS Essential Guide,British Council Ielts,British Council IELTS,Gate and Mathematics
+294,M-48,ACE the IELTS Writing,Excel academy,Excel academy,Gate and Mathematics
+295,M-48-01,ACE the IELTS Reading,Excel academy,Excel academy,Gate and Mathematics
+296,M-49,IELTS 11,Cambridge University Press,Cambridge University Press,Gate and Mathematics
+297,M-50,WordStar for Docs Companion Programs,WordStar,WordStar,Gate and Mathematics
+298,M-51,WordStar for Docs,WordStar,WordStar,Gate and Mathematics
+299,M-53,IELTS 12,Cambridge University Press,Cambridge University Press,Gate and Mathematics
+300,M-54,Engineering Drawing,N. H. Dubey,Nandu Publication,Gate and Mathematics
+301,M-55,Production Process-II,Anup Goel,Technical Publication,Gate and Mathematics
+302,M-63,Financial Accounting and Management of Technology Innovation,Y. R. Thorat and Dr. CA Y. R. Waghmare,Tech-Max Publication,Gate and Mathematics
+303,M-65,Reliability Engineering,Singiresu S. Rao,Pearson Publication,Gate and Mathematics
+304,M-70,The Beginner's Guide to Access 95,Alex Homer,Wrox Press Ltd.,Gate and Mathematics
+305,M-71,"All About Monitors Introduction, Troubleshooting and Upgrading with Introduction to Computer",Manahar Lotia and Pradeep Nair,BPB Publication,Gate and Mathematics
+306,MFA-CM-001,Programming in Scilab 4.1,Vinu V Das,New Age International Publishers,Mathematics
+307,MFA-CM-002,Numerical Methods for Engineers,Steven C.Chapra,Tata McGraw-Hill,Mathematics
+308,MFA-CM-003,Applied Mathematics,B.M.Patel,Nirali Prakashan,Mathematics
+309,MFA-CM-005,Introductory Methods of Numerical Analysis,S.S.Sastry,Prentice Hall of India,Mathematics
+310,MFA-CM-006,Probability and Statistics for Engineers,Richard A. Johnson,PHI Learning Private Limited,Mathematics
+311,MFA-DSGT-0010,Operating System,Kenneth H. Rosen,Tata McGrawHill Edition,Mathematics
+312,MFA-DSGT-0012,Discrete Structure and Graph Theory,Vinaya M. Rawool and Bhakti C. Raul,Ce Publication,Mathematics
+313,MFA-DSGT-002,Discrete Mathematics,Richard Johnsonbaugh,Pearson Education,Mathematics
+314,MFA-DSGT-003,Discrete Mathematical Structures with Applications to Computer Science,J. P. Tremblay,McGraw Hill Education,Mathematics
+315,MFA-DSGT-004,INTERNET & JAVA PROGRAMMING,R.Krishnamoorthy & S.Prabhu,NEW AGE INTERNATIONAL,Mathematics
+316,MFA-DSGT-005,Discrete Mathematical Structures,Kolman & Busby & Ross,Pearson Education,Mathematics
+317,MFA-DSGT-007,Elements of Discrete Mathematics,C.L.Lin,Tata McGraw-Hill,Mathematics
+318,MFA-DSGT-008,Mathematics and Its Application with Combinatorics and Graph Theory,Kenneth H Rosen,McGraw Hill Publication,Mathematics
+319,MFA-DSGT-00901,DISCRETE MATHEMATICS,seymor lipschuts & marc lars lipson,Tata McGraw-Hill,Mathematics
+320,MFA-NM-001,Numerical Methods,R.M.Baphana,Technova,Mathematics
+321,MFA-NM-002,Numerical Methods and Linear Programming,G.K.Ranganath,S. Chand and Company LTD.,Mathematics
+322,MFA-SM-001,Discrete-Event System Simulation,Jerry Banks,Prentice-Hall of India,Simulation
+323,MFA-SM-002,Discrete Event System Simulation,Jerry Banks & John S. Carson,Pearson Education,Simulation
+324,MFA-SM-003,System Modeling and Simulation,V P Singh,New Age International Publication,Simulation
+325,MFA-SM-004,Computer Simulation and Modeling,Abhijit R. Joshi,Vipul Prakashan,Simulation
+326,MFA-SM-006,Simulation Modeling and Analysis,Averill M Law,McGraw-Hill Publication,Simulation
+327,NC-001,National Conference on EC2IT,Department Of Information Technology,Somaiya Trust,Computer Networks
+328,NC-INS-001,MCSA/MCSE Windows Server 2003 Network Security Administration,Russ Kaufmann & Bill English,BPB publications,Computer Networks
+329,NC-INS-00101,MCSE Windows Server 2003 Network Security Design,Brian Reisman,BPB Publications,Computer Networks
+330,NC-CN,Understanding Communications And Networks,William A. Shay,Thomson Learning,Computer Networks
+331,NC-CN-002,Computer Networks And Communication,Vilas Bagad,Technical Publications,Computer Networks
+332,NC-CN-003,"Practical Guide To Networking with UNIX, DOS And Windows",P.K. Roy,Wheeler Publishing,Computer Networks
+333,NC-CN-005,Computer Networks,A. S. Tanenbaum,Premtice Hall India Publication,Computer Networks
+334,NC-CN-006,Computer Network,V.S. Bagad,Technical Publications,Computer Networks
+335,NC-CN-007,Data And Computer Communications,William Stallings,PHI Publications,Computer Networks
+336,NC-CN-0071,Data And Conputer Communications,William Stallings,PHI Publication,Computer Networks
+337,NC-CN-008,Network Analysis with Applications,William D. Stanley,Pearson Publications,Computer Networks
+338,NC-CN-010,An Engineering Approach to Computer Networking,S. Keshav,Pearson,Computer Networks
+339,NC-CN-011,Computer Networking With Internet Protocols And Technology,William Stallings,Pearson Education,Computer Networks
+340,NC-CN-012,Convergence Of Technologies And Networking In Communication,J.S. Katre,TechMax Publications,Computer Networks
+341,NC-CN-01301,Computer Network and Network Design,J. S. Katre and Monali Shetty,TechKnowledge Publication,Computer Networks
+342,NC-CN-015,Data Communications and Networking 5E,Behrouz A. Forouzan,McGraw Hill Education,Computer Networks
+343,NC-CN-01501,Network Analysis and Synthesis,Behrouz A. Forouzan,Tata McGraw-Hill Publication,Computer Networks
+344,NC-CN-017,Fundamentals of Wireless Networking,Ron Price,Tata McGraw Hill Publication,Computer Networks
+345,NC-PCE-004,ISDN and Broadband ISDN with Frame Relay and ATM,William Stallings,Pearson,Computer Networks
+346,NC-DS-00101,Distributed Systems Principles and Paradigms,Andrew S. Tanenbaum,Pearson Education,Distributed Systems
+347,NC-DS-002,Middleware and Enterprise Integration Technologies,G. Sudha Sadasivam,Wiley-India,Distributed Systems
+348,NC-DS-003,COM and CORBA Side by Side,Jason Pritchard,Pearson,Distributed Systems
+349,NC-DS-005,Distrubuted Operating Systems,Pradeep K. Sinha,PHI Publications,Distributed Systems
+350,NC-DS-006,Parallel and Distributed Systems,Arun Kulkarni,Wiley Publications,Distributed Systems
+351,NC-DS-008,Distributed,Iresh A. Dhotre,Technical Publication,Distributed Systems
+352,NC-NTDD-001,Networking Technology,V.S.Bagad,Technical Publications,Network Technology
+353,NC-NTDD-002,Networking Technology for Digital Devices,J. S. Katre,Techmax Publication,Network Technology
+354,NC-NTDD-003,Networking Technology For Digital Devices Simplified,Sushil Chandiramani,Nandu Publications,Network Technology
+355,NC-IS-001,Encryption,Ankit Fadia and Jaya Bhattacharjee,Vikas Publishing,Cryptography
+356,NC-IS-003,"Information Theory,Coding and Cryptography",Ranjan Bose,McGraw Hill Publication,Cryptography
+357,NC-IS-005,System and Web Security,Vilas S. Bagad,Nirali Prakashan,Cryptography
+358,NC-IS-007,Cryptography and Network Security,Behrouz A. Forouzan,Special Indian Edition,Cryptography
+359,NC-MC-001,Mobile Communication And Computing,Dipali Y. Koshti,TechMax Publications,Mobile Computing
+360,NC-MC-002,Mobile Computing,Raj Kamal,Oxford Higher Education,Mobile Computing
+361,NC-MC-004,Programming For Mobile and Remote Computers,G.T Thampi,dream tech press,Mobile Computing
+362,NC-PC-001,Communication Systems,A. Bruce Carlson,McGrawHill International Editions,Communication Systems
+363,NC-PCE-002,Principles Of Digital Communication,J.S Katre,TechMax Publications,Communication Systems
+364,NC-PCE-003,Antenna and Wave Propagation,Samdeep Wali,TechMax Publications,Communication Systems
+365,NC-PCE-005,Principles of Communication Engineering,J. S. Katre,Tech-Max Publication,Communication Systems
+366,NC-WM-011,Wireless Technology,U. S. Shah,TechMax Publication,Communication Systems
+367,NC-WN-001,Wireless and Mobile Network Architectures,Yi-Bang Lin,Wiley India,Communication Systems
+368,NC-WN-003,Wireless Communications,Theodore S. Rappaport,Pearson Education,Communication Systems
+369,NC-WN-004,Basics of wireless Communications,PHI Publication,PHI Publication,Communication Systems
+370,NC-WN-006,3G Wireless Networks,Clint Smith & Daniel Collins,McGraw Hill Communication,Communication Systems
+371,NC-WN-007,Wireless Communication,Upena Dalal,Oxford Publication,Communication Systems
+372,NC-WN-008,Wireless And Mobile Communication,Sanjeev Kumar,New Age International Publishers,Communication Systems
+373,NL-WH-002,Wireless Networks,P. Nicopolitidis and M. S. Obaidat,Wiley Publication,Communication Systems
+374,NS-IS-003,Ethical Hacking and Forensics,Dr. Suvarna Shirke-Pansambal,TechKnowledge Publication,Cryptography
+375,NS-IS-006,Security in Computing,Charles P. Pfleeger & Shari Lawrence Pfleeger,Pearson Education,Cryptography
+376,NS-IS-008,Digital Forensic,Dr. Nilakshi Jain & Dr Dhananjay R. Kalbande,Wiley,Digital Forensic
+377,NS-IS-010,Information Theory and Coding,Ketha Anuradha Rao,Nandu Publication,Information Theory
+378,OS-CC-0011,Cloud Computing with the Windows Azure Platform,Roger Jennings,Wiley India,Cloud Computing
+379,OS-CC-002,Mastering Cloud Computing,Rajkumar Buyya,McGrawHill Education,Cloud Computing
+380,OS-CC-003,ASP.NET,Shailendra Singh,Oxford Publication,Operating Systems
+381,OS-COM-0013,Computer Networ,D. M. Dhamdhere,Macmillian India Publication,Operating Systems
+382,OS-COM-0014,System Programming And Compiler Construction,Shweta A. Loonkar,TechMax Publication,Operating Systems
+383,OS-COM-0015,System Programming and Compiler Construction,Tabassum Maktum,Nandu Printers,Operating Systems
+384,OS-DC-001,Distributed Computing,Sunita Mahajan,Oxford Higher Education,Operating Systems
+385,OS-OS-001,An Introduction To Operating Systems,Harvey M. Deitel,Addison Wesley Publication,Operating Systems
+386,OS-OS-002,Operating System for TE,V.R. Udupi,Mahalaxmi Publishing House Kolhapur,Operating Systems
+387,OS-OS-003,Operating System For Computational Devices,Swati Jain,TechMax Publication,Operating Systems
+388,OS-OS-004,Principles Of Operating Systems,Naresh Chauhan,Oxford Higher Education,Operating Systems
+389,OS-OS-005,Systems Programming And Operating Systems,D.M. Dhamdhere,TataMcGrawHill Edition,Operating Systems
+390,OS-OS-006,Advanced Concepts In Operating Systems,Mukesh Singhal,TataMcGrawHill Edition,Operating Systems
+391,OS-OS-007,System Programming,John J Donovan,Tata McGraw Hill Publication,Operating Systems
+392,OS-OS-008,Principles of Operating Systems,Naresh Chauhan,Oxford Publication,Operating Systems
+393,OS-OS-009,Operating Systems,Gary Nutt,Pearson Education,Operating Systems
+394,OS-OS-010,Introduction To Parallel Processing,M. Sasikumar Dinesh Shikhare P. Ravi Prakash,PHI Learning Private LTD.,Operating Systems
+395,OS-OS-015,Operating Systems Internals and Design Principles,Tim O'Reilly and Grace Todino,Pearson Publication,Operating Systems
+396,OS-OS-016,Overview of NetWare 3.12,Novell,Novell,Operating Systems
+397,OS-OS-017,Installation and Upgrade of NetWare 3.12,Novell,Novell,Operating Systems
+398,OS-OS-018,Btrieve Installation and Operation of NetWare 3.12,Novell,Novell,Operating Systems
+399,OS-OS-019,Workstation for DOS and windows of NetWare 3.12,Novell,Novell,Operating Systems
+400,OS-OS-020,Using the NetWare for Macintosh Client of NetWare 3.12,Novell,Novell,Operating Systems
+401,OS-OS-021,System Administration of NetWare 3.12,Novell,Novell,Operating Systems
+402,OS-OS-022,Print Server of NetWare 3.12,Novell,Novell,Operating Systems
+403,OS-OS-023,Operating System for Computational Devices,Swati Jain and Ruchita Rathi,Tech-Max Publication,Operating Systems
+404,OS-OS-026,Introduction to Parallel Computing,Ananth Grama and Anshul Gupta,Pearson Publication,Operating Systems
+405,OS-OS-027,Operating System Principles,Abraham Silberschatz and Peter Baer Galvin,Wiley Publication,Operating Systems
+406,OS-OSL-001,Managing uucp and Usenet,Tim O'Reilly and Grace Todino,O'Reilly and Associates Inc.,Operating Systems
+407,OS-OSL-002,Linux Labs and Open Source Technologies,Prof. Dayanand Ambawade,dreamtech Press,Operating Systems
+408,OS-OSL-003,Open Source Technologies,Iresh A. Dhotre,Technical Publications,Operating Systems
+409,OS-OSL-004,Linux Lab Hands on Linux,Prof Dayanand Ambawade,Dreamtech press,Operating Systems
+410,OS-OSL-005,Introduction to UNIX&SHELL programming,M. G. Venkateshmurthy,Pearson,Operating Systems
+411,OS-UNIX-001,The Design Of The Unix Operating System,Maurice G. Bach,PHI Publications,Operating Systems
+412,PL-001,Lotus 1-2-3 made simple,R K Taxali,Tata Mcgraw hill,Computer Programming
+413,PL-002,Computer Programming in COBOL,V. Rajaraman & H. V. Sahasrabuddhe,PHI Publication,Computer Programming
+414,PL-0021,Programming in ANSI X,E Balagurusamy,Tata McGraw Hill,Computer Programming
+415,PL-003,Programming with Structured Cobol,Lawrence R. Newcomer,Schaum outline series,Computer Programming
+416,PL-0061,Inside C#,Tom Archer,WP publisher & Distributiors pvt ltd,Computer Programming
+417,PL-007,Professional Java Fundamentals,Shy Cohen,Wrox,Computer Programming
+418,PL-008,GATE Computer Science and Infor,Andreas S Philippakis and Leonard J Kazmier,McGraw Hill Publication,Computer Programming
+419,PL-009,Programming with PASCAL,Byron Gottfried,Tata McGraw Hill,Computer Programming
+420,PL-010,FoxPro 2.5 for Windows,Edward Jones,Tata McGraw Hill,Computer Programming
+421,PL-013,Programming in C & C++,SS Khandare,S. Chand publication,Computer Programming
+422,PL-017,Active Server Pages 3.0,Scott Mitchell & James Atkinson,Techmedia,Computer Programming
+423,PL-022,Professional Computing,Pearson Higher Education,Pearson Education,Computer Programming
+424,PL-0231,Developing Solutions with Visual C++ 6.0,ACCP,ACCP,Computer Programming
+425,PL-024,Visual Basic. NET,Deitel,Dietel,Computer Programming
+426,PL-025,Visual Basic 2005,Deitel & Deitel,Pearson Education,Computer Programming
+427,PL-028,Visual Basic 6,Tim Anderson,Dreamtech Press,Computer Programming
+428,PL-029,Linux System Administrator's Survival Guide,Tim Parker,TechMedia,Computer Programming
+429,PL-033,Logic and Prolog Programming,Saroj Kaushik,New Age International Publishers,Computer Programming
+430,PL-034,Programming Pearls,Jon Bentley,Pearson Education,Computer Programming
+431,PL-035,Programming with Visual basic 6.0,Mohammed Azam,Vikas Publishing house,Computer Programming
+432,PL-036,ORACLE 9i: The Complete Reference,Kevin Lonney,Oracle Press,Computer Programming
+433,PL-037,ABAP Objects,Horst Keller & Sascha Kruger,Pearson Education,Computer Programming
+434,PL-038,Writing SAP ABAP/4 Programs,Theodore Hoffman,Tata McGraw Hill,Computer Programming
+435,PL-039,LINUX,Kiran Gurbani Yuvraj S. Wagh,Vipul Prakashan,Computer Programming
+436,PL-040,Programmer's Bible,Peter Norton,Microsoft Press,Computer Programming
+437,PL-041,Theory and Problems of Programming with Basic,Byron S. Gottfried,McGraw Hill Publication,Computer Programming
+438,PL-042,Visual C++ 5,Steven Holzner,BPB Publications,Computer Programming
+439,PL-045,Turbo Pascal Users Guide,Borland,Borland,Computer Programming
+440,PL-046,Turbo Pascal Programmers Reference,Borland,Borland,Computer Programming
+441,PL-047,Turbo Pascal Language Guide,Borland,Borland,Computer Programming
+442,PL-048,Turbo Vision,Borland,Borland Publications,Computer Programming
+443,PL-049,Professional C# 2005,Christian Nagel a,Wiley-India Publication,Computer Programming
+444,PL-050,Core Python Programming,Dr. R. Nageswara Rao,Dreamtech Publication,Computer Programming
+445,PL026,Teach yourself Visual Basic 5,Nathan Gurewich,Techmedia,Computer Programming
+446,SE-AT-00401,Automata Theory,Micheal Sipser,Cengage Learning,Computer Science
+447,SE-AT-010,Theory of Computation,Sushil Kumar Azad,Dhanpat Rai & Co.,Computer Science
+448,SE-AT-011,"Introduction to Automata Theory, Formal Languages and Computation",John E. Hopcroft & Jeffrey D. Ullman,Narosa Publishing House,Computer Science
+449,SE-AT-014,"Introduction to Formal languages,Automata Theory and Computation",Kamala Krithivasan & Rama R.,Pearson,Computer Science
+450,SE-AT-015,Theory of Computer Science (Automata Languages and Computation),K. L. P. Mishra & N. Chandrasekaran,Prentice Hall of India Private Limited,Computer Science
+451,SE-AT-016,Introduction to Languages and the Theory of Computation,John Martin,Tata McGraw Hill Publication,Computer Science
+452,SE-SP-001,Introduction to,D M Dhamdhere,Tata McGraw Hill Publication,Computer Science
+453,WEST-IP-007,Web Technologies,Uttam K. Roy,Oxford Higher Education,Web Technologies
+454,WSP-IP-002,Internet Technology & Application,A. Sakar,Pareen Publication,Web Technologies
+455,WSP-IP-005,Understanding XHTML,D. P. Nagpal,Wheeler Publishing,Web Technologies
+456,WSP-IP-006,Internet & World Wide Web How to Program,Deitel & Deitel,Pearson Education,Web Technologies
+457,WSP-IP-010,Web Engineering,M.A Ansari,Techmax Publications,Web Technologies
+458,WST-IP-001,Internet Technology and Applications,Abhishek Baliya & Sagar Nagda,Nandu Publication,Web Technologies
+459,WST-IP-004,Programming the World Wide Web,Robert W. Sebesta,Pearson Education,Web Technologies
+460,WST-IP-00702,web Technologies,Uttam K. Roy,Oxford,Web Technologies
+461,WST-IP-008,The INTERNET,Christian Crumlish,bpb Publication,Web Technologies
+462,WST-IP-011,"HTML,XHTML CSS and XML by Example",Teodoru Gugoiu,Firewall Media Publication,Web Technologies
+463,WST-IP-012,Internet Programming,A. A. Puntambekar,Technical Publications,Web Technologies
+464,WST-IP-0132,Web Programming,Tulshiram Sule,TechMax Publications,Web Technologies
+465,WST-IP-014,W,Tushar R. Agarwal,TechKnowlegde Publication,Web Technologies
+466,WST-IP-015,Web Services an Introduction,BV Kumar & SV Subrahmanya,Tata Mcgraw hill,Web Technologies
+467,WST-IP-017,Advanced Internet Technology,Deven Shah,Dream Tech,Web Technologies
+468,WST-IP-019,HTML Black Book,Steven Holzner,Dreamtech Press,Web Technologies
+469,WST-01402,Web X. O,Tushar R. Agarwal,TechKnowledge Publication,Web Technologies
+470,WST-PMRC-001,J2EE 1.4 Projects,Kogent Solutions Inc.,dreamtech Press,Web Technologies
